@@ -1,0 +1,1 @@
+import{O as s,g as r}from"./fade-in.cssr-c6d077ce.js";import{X as i,ah as c}from"./Card-720de80b.js";const e={iconSize:"22px"},m=o=>{const{fontSize:n,warningColor:t}=o;return Object.assign(Object.assign({},e),{fontSize:n,iconColor:t})},p=s({name:"Popconfirm",common:r,peers:{Button:i,Popover:c},self:m}),f=p;export{f as p,m as s};

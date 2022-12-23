@@ -1,0 +1,1 @@
+import{X as t,V as i}from"./create-injection-key-6dff4bbb.js";import{w as s}from"./fade-in.cssr-c6d077ce.js";var o="[object String]";function g(r){return typeof r=="string"||!s(r)&&t(r)&&i(r)==o}export{g as i};

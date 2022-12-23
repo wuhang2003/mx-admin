@@ -1,0 +1,1 @@
+import{Y as l}from"./app-c79d7097.js";import{r as a,a as p}from"./create-injection-key-6dff4bbb.js";const m=r=>{const s=a([]),e=a({}),c=p({sortBy:"",sortOrder:0}),n=a([]),t=a(!1);return{data:s,pager:e,sortProps:c,checkedRowKeys:n,loading:t,fetchDataFn:async(i,f,o)=>{t.value=!0,await r(s,e)(i,f,o?l.stringify(o):void 0),t.value=!1}}};export{m as u};

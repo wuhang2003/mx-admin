@@ -1,0 +1,1 @@
+const e="_editor_19kch_1",t="_loading_19kch_1",o={editor:e,loading:t},n={text:{type:String,required:!0},onChange:{type:Function,required:!0},unSaveConfirm:{type:Boolean,default:!0}};export{n as e,o as s};
