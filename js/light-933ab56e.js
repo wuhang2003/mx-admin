@@ -1,0 +1,1 @@
+import{aI as e,C as r,bS as c,f as i}from"./Button-2747a3c5.js";const n={padding:"8px 14px"},p=t=>{const{borderRadius:s,boxShadow2:a,baseColor:o}=t;return Object.assign(Object.assign({},n),{borderRadius:s,boxShadow:a,color:i(o,"rgba(0, 0, 0, .85)"),textColor:o})},m=e({name:"Tooltip",common:r,peers:{Popover:c},self:p}),g=m;export{n as c,g as t};
