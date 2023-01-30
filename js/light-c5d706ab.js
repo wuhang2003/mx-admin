@@ -1,0 +1,1 @@
+import{aI as o,C as n}from"./Button-d9ff6831.js";import{i as a}from"./light-4438dbc4.js";import{x as m}from"./use-store-ref-bbea8734.js";function r(t){const{boxShadow2:e}=t;return{menuBoxShadow:e}}const i=o({name:"AutoComplete",common:n,peers:{InternalSelectMenu:a,Input:m},self:r}),c=i;export{c as a,r as s};

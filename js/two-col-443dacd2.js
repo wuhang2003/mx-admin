@@ -1,0 +1,1 @@
+import{k as e,U as r}from"./Button-d9ff6831.js";import{aL as t}from"./app-55917f23.js";const d=e({setup(a,{slots:o}){return()=>r(t,{cols:"36 1:12 1024:36 1600:36",xGap:24},{default:()=>[o?.default?.()]})}});export{d as T};
