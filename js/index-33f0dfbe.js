@@ -1,0 +1,1 @@
+var e=(r=>(r[r.Friend=0]="Friend",r[r.Collection=1]="Collection",r))(e||{}),a=(r=>(r[r.Pass=0]="Pass",r[r.Audit=1]="Audit",r[r.Outdate=2]="Outdate",r[r.Banned=3]="Banned",r[r.Reject=4]="Reject",r))(a||{}),s=1<<0,c=1<<1,u=1<<2,b=1<<3;export{a as L,s as S,e as a,c as b,b as c,u as d};
