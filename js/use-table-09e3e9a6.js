@@ -1,0 +1,1 @@
+import{v as a,m as f,dM as d}from"./index-3c95053e.js";const v=r=>{const s=a([]),e=a({}),c=f({sortBy:"",sortOrder:0}),n=a([]),t=a(!1);return{data:s,pager:e,sortProps:c,checkedRowKeys:n,loading:t,fetchDataFn:async(i,l,o)=>{t.value=!0,await r(s,e)(i,l,o?d.stringify(o):void 0),t.value=!1}}};export{v as u};
