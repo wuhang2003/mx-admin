@@ -1,0 +1,1 @@
+import{d as r,s as n,R as s}from"./index-804307be.js";import{CrossBellConnector as i}from"./class-668285c7.js";import"./last-862de5a8.js";import"./confetti-fa4954ff.js";const l=r({setup(){const e=n("");return s.api.options.thirdPartyServiceIntegration.get().then(({data:o})=>{const{xLogSiteId:t}=o;e.value=t,i.setSiteId(t)}),()=>null}});export{l as CrossBellConnectorIndirector};
