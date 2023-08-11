@@ -35,5 +35,3 @@ pnpm build
 ![0213223518](https://fastly.jsdelivr.net/gh/Innei/fancy@master/2022/0213223518.png)
 
 ![0213223417](https://fastly.jsdelivr.net/gh/Innei/fancy@master/2022/0213223417.png)
-
-![0213223458](https://fastly.jsdelivr.net/gh/Innei/fancy@master/2022/0213223458.png)
